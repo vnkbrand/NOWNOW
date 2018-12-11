@@ -1,0 +1,16 @@
+{% extends 'admin/base.html' %}
+
+{% load static %}
+
+{% block branding %}
+
+<h1 id="head">
+  <img src="{% static 'img/logos/Now-Now-6.png' %}" alt="NOWNOW" height="50" width="150" class="brand_img"> Admin
+</h1>
+
+{% endblock %}
+{% block extrastyle %}
+
+<link rel="stylesheet" href="{% static 'css/admin.css' %}">
+
+{% endblock %}
