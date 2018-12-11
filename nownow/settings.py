@@ -143,12 +143,6 @@ MESSAGE_TAGS = {
     
 }
 
-# # Email config
-# EMAIL_HOST = 'smtp.gmail.com'
-# EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'brandon@thebacklogman.com'
-# EMAIL_HOST_PASSWORD = 'Vnkbra01!'
-# EMAIL_USE_TLS =True
 
 # Deployed settings
 try:
